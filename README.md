@@ -5,4 +5,5 @@ I'm from Thailand 🇹🇭🇹🇭
 You can support me by...
 https://paypal.me/TheNongice
 <br><br>
-[![NGIXX's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheNongice)](https://github.com/anuraghazra/github-readme-stats)
+![NGIXX's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheNongice&show_icons=true&theme=radical)
+
