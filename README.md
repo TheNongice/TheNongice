@@ -14,7 +14,7 @@
 <a href="https://twitter.com/thenongice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thenongice" height="30" width="40" /></a>
 <a href="https://fb.com/carice2549" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="carice2549" height="30" width="40" /></a>
 <a href="https://instagram.com/nongicelife" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nongicelife" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/nongiceyolife" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nongiceyolife" height="30" width="40" /></a>
+<a href="https://www.youtube.com/nongiceyolife" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nongiceyolife" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
