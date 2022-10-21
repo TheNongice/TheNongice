@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/TheNongice](https://github.com/TheNongice)
 
-- 📫 How to reach me **ice7533678/@/gmail.com** (Don't forget remove /.)
+- 📫 How to reach me **ngixx/@/ngixx.in.th** (Don't forget remove /.)
 
 - ⚡ Fun fact **Hm.... Nothing ;~;**
 
