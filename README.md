@@ -7,8 +7,6 @@ Hello! I'm Wasawat Junnasaksri (TheNongice). I like to coding somthing that i wa
 
 I'm from Chulalongkorn University from #CEDT02.
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=TheNongice)](https://github.com/TheNongice)
-
 ---
 
 ## Languages/Tools
