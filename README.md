@@ -1,7 +1,9 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d8171d6f-7142-420b-9e9c-8341ce6e56f1">
+  <img src="https://github.com/user-attachments/assets/13feac8e-b9c3-4cd5-97fe-64346e6f5082">
 </p>
+<em>Anime: Bocchi The Rock - Hitori Goto</em>
 <h1 align="center">XiamiKunG (TheNongice) ✨</h1>
+
 
 Hello! I'm Wasawat Junnasaksri (TheNongice). I like to coding somthing that i want to code it! 😸
 
@@ -13,10 +15,10 @@ I'm from Chulalongkorn University from #CEDT02.
 [![My Skills](https://skillicons.dev/icons?i=discord,linkedin,github,instagram,js,py,cpp,php,mysql,nodejs,express,postman,bash,linux,ubuntu,raspberrypi)](https://skillicons.dev)
 
 ## My project
+- Simple Code Judging [(Link)](https://github.com/TheNongice/go-grader/)
 - Songrak-songyim (Valentine form) - Valentine form for PCSHSST students! [(Link)](https://github.com/Council-PCSHSST/Songrak_API)
 - Grape Culvating [(Link)](https://github.com/TheNongice/grape-seaweed_machine)
 - Doctor by Your Side - Computer project from PCSHSST. [(Link)](https://github.com/TheNongice/docside_php)
-- Auto Code Judge [(Link)](https://gist.github.com/TheNongice/2d88454d5ff1878c1b0cc0886e90a532)
 
 ## Contacts us:
 - Email: ngixx@ngixx.in.th
