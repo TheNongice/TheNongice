@@ -12,7 +12,7 @@ I'm from Chulalongkorn University from #CEDT02.
 ---
 
 ## Languages/Tools
-[![My Skills](https://skillicons.dev/icons?i=discord,linkedin,github,instagram,js,py,cpp,php,mysql,nodejs,express,postman,bash,linux,ubuntu,raspberrypi)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=discord,linkedin,github,instagram,js,py,cpp,php,java,mysql,nodejs,express,postman,bash,linux,ubuntu,raspberrypi)](https://skillicons.dev)
 
 ## My project
 - Simple Code Judging [(Link)](https://github.com/TheNongice/go-grader/)
