@@ -1,7 +1,8 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/13feac8e-b9c3-4cd5-97fe-64346e6f5082">
+  <img src="https://github.com/user-attachments/assets/cc736326-2d0b-4f57-a553-a0818224c889">
 </p>
-<em>Anime: Bocchi The Rock - Hitori Goto</em>
+
+<em>Anime: Bocchi The Rock - Hitori Gotoh</em>
 <h1 align="center">XiamiKunG (TheNongice) ✨</h1>
 
 
