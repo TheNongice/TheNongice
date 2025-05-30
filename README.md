@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/cc736326-2d0b-4f57-a553-a0818224c889">
+  <img src="https://github.com/user-attachments/assets/ae5638f5-3d30-4104-8cf9-36bea5885aa8">
 </p>
 
 <em>Anime: Bocchi The Rock - Hitori Gotoh</em>
@@ -13,7 +13,7 @@ I'm from Chulalongkorn University from #CEDT02.
 ---
 
 ## Languages/Tools
-[![My Skills](https://skillicons.dev/icons?i=discord,linkedin,github,instagram,js,py,cpp,php,java,mysql,nodejs,express,postman,bash,linux,ubuntu,raspberrypi)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=discord,linkedin,github,instagram,js,py,cpp,php,cs,mysql,nodejs,express,postman,bash,linux,ubuntu,raspberrypi)](https://skillicons.dev)
 
 ## My project
 - Simple Code Judging [(Link)](https://github.com/TheNongice/go-grader/)
@@ -26,7 +26,7 @@ I'm from Chulalongkorn University from #CEDT02.
 - LinkedIn: @wasawatjs
 - Another: [https://bento.me/ngixx](https://bento.me/ngixx)
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/carice2549)
+[![Instagram](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/wasawatjs/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/nongicelife/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@TheNongice)
 
